@@ -1,5 +1,5 @@
 # Tagalog Spellchecker
-A Tagalog Spellchecker (tl) for Pale Moon, Firefox, Thunderbird, and SeaMonkey. Dictionary and affixes file were made by Ramil Sagum, Kevin P. Scannell, and Jan Michael Alonzo.
+A Tagalog Spellchecker (tl) for Pale Moon, Firefox, Thunderbird, and SeaMonkey. Wordlist and affixes file were made by Ramil Sagum, Kevin P. Scannell, and Jan Michael Alonzo.
 
 To enable, right-click in a multi-line text box, select "Languages", then "Tagalog".
 
