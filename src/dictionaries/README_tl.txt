@@ -1,7 +1,8 @@
-COPYRIGHT:
+﻿COPYRIGHT:
 Aspell dictionary for Tagalog
 Copyright 2004 Ramil Sagum <ramil@astra.ph> 
                Kevin P. Scannell <scannell@slu.edu>
+Copyright 2017+ FranklinDM <mrmineshafter17@gmail.com>
 
   The original word list used for this package was generated
 using Scannell's web crawling software "An Crúbadán" and 
