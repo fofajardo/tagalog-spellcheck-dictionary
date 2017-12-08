@@ -3,17 +3,17 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>tl@dictionaries.addons.mozilla.org</em:id>
-    <em:version>1.0</em:version>
+    <em:version>dev-build</em:version>
 	<em:unpack>true</em:unpack>
     <em:type>64</em:type>
 	<em:bootstrap>true</em:bootstrap>
-    <em:name>Tagalog Spellchecker</em:name>
+    <em:name>Tagalog/Filipino Spellchecker</em:name>
 	<em:creator>FranklinDM</em:creator>
     <em:contributor>Ramil Sagum</em:contributor>
     <em:contributor>Kevin P. Scannell</em:contributor>
     <em:contributor>Jan Michael Alonzo</em:contributor>
     <em:homepageURL>https://franklindm.github.io/</em:homepageURL>
-	<em:description>Tagalog (tl) Spellchecker</em:description>
+	<em:description>A spellchecker for the Tagalog/Filipino languages (fil/tl)</em:description>
 
 	<!-- Pale Moon -->
 	<em:targetApplication>
